@@ -1,0 +1,34 @@
+Avem 3 categorii de agenti: Oameni , Roboti , Mitici (fapturi magice)
+Din oameni deriva tipurile Ninja si Razboinic.Din mitici deriva tipurile Magician si Orc.
+=> Avem in total 5 tipuri:
+Agentii au mai multe caracteristici:
+	-viata
+	-vitezaAtac (numar de atacuri pe tura - Doar ninja poate avea mai mult de 1)
+	-dauna ( unii agenti au dauna variabila(se poate modifica ,altii o au constanta, altii nu au(vrajitor))
+	-stamina ( doar oamenii au stamina - dauna este stamina% din dauna de baza)
+	-mana (doar Miticii au mana - specific magic)
+	-raza (raza de vizibilitate si actiune)
+Detalii:
+	-toti agentii in afara de ninja au viteza de atac 1
+	-vrajitorii nu au dauna (pot da dauna doar din iteme)
+
+Iteme:
+	Avem 4 categorii : Armuri , Arme , Potiuni , Vraji
+	Armuri se imparte in Scut si Amortizor. Arme se imparte in Arme de Foc si ArmaAlba
+	Scut: - are o valoare de protectie care se adauga la viata agentului care foloseste itemul(utilizare singulara)
+	Amortizor: -are o valoare de protectie care se scade din atacurile primite( folosire infinita)
+		   -Nu are efect impotriva vrajilor.
+	Arma Alba: -are o dauna anume. Un agent poate folosi acest item impotriva altui agent pana moare.
+	Arma De Foc: -are munitie. Cand munitia s-a terminat nu mai poate fi folosita.
+	Potiune: -O potiune are 3 caracteristici : plusViata,plusStamina,plusMana,plusVitezaAtac
+		 -plusStamina poate fi folosita doar de oameni 
+		 -plusMana poate fi folosit doar de mitici
+		 -plusVitezaAtac - doar de Ninja
+		 O potiune poate fi folosita dupa fiecare mutare. -nu se termina.
+		-robotii nu pot folosi potiuni (doar fapturile vii)	
+	Vraja: - poate 	fi folosita doar de vrajitori
+		-este necesara o anumita mana pentru folosire
+		-Are un anumit efect : Au fost create efectele : AtacMagic - da o anumita dauna
+								 SchimbViata - realizeaza schimbul de viata dintre atacator si atacat
+								 FurtMana - Vrajitorul extrage mana agentului atacat (daca este magic)
+	

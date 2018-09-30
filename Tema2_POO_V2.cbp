@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Tema2_POO_V1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Tema2_POO_V1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Tema2_POO_V1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Agent.h" />
+		<Unit filename="include/Arma.h" />
+		<Unit filename="include/Armura.h" />
+		<Unit filename="include/Efect.h" />
+		<Unit filename="include/Harta.h" />
+		<Unit filename="include/Item.h" />
+		<Unit filename="include/Mitic.h" />
+		<Unit filename="include/Om.h" />
+		<Unit filename="include/Potiune.h" />
+		<Unit filename="include/Robot.h" />
+		<Unit filename="include/Vraja.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Agent.cpp" />
+		<Unit filename="src/Arma.cpp" />
+		<Unit filename="src/Armura.cpp" />
+		<Unit filename="src/Efect.cpp" />
+		<Unit filename="src/Harta.cpp" />
+		<Unit filename="src/Item.cpp" />
+		<Unit filename="src/Mitic.cpp" />
+		<Unit filename="src/Om.cpp" />
+		<Unit filename="src/Potiune.cpp" />
+		<Unit filename="src/Robot.cpp" />
+		<Unit filename="src/Vraja.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

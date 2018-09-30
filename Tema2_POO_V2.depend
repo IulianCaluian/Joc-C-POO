@@ -1,0 +1,229 @@
+# depslib dependency file v1.0
+1494789661 source:c:\users\iulian\desktop\tema2_poo_v2\main.cpp
+	<iostream>
+	"Harta.h"
+	"Om.h"
+	"Robot.h"
+	"Mitic.h"
+	"Potiune.h"
+	"Armura.h"
+	"Arma.h"
+	"Vraja.h"
+	"Item.h"
+	<stdlib.h>
+
+1494787106 c:\users\iulian\desktop\tema2_poo_v2\include\harta.h
+	"Agent.h"
+	"Item.h"
+
+1494783691 c:\users\iulian\desktop\tema2_poo_v2\include\agent.h
+	<string>
+	"Item.h"
+
+1494784690 c:\users\iulian\desktop\tema2_poo_v2\include\item.h
+	<string>
+	"Agent.h"
+
+1494783471 source:c:\users\iulian\desktop\tema2_poo_v2\src\agent.cpp
+	"Agent.h"
+	"Om.h"
+	"Armura.h"
+	<iostream>
+	<iomanip>
+
+1494789385 source:c:\users\iulian\desktop\tema2_poo_v2\src\harta.cpp
+	"Harta.h"
+	"Armura.h"
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<iomanip>
+
+1494784741 source:c:\users\iulian\desktop\tema2_poo_v2\src\item.cpp
+	"Item.h"
+
+1494785022 c:\users\iulian\desktop\tema2_poo_v2\include\om.h
+	"Agent.h"
+
+1494779938 source:c:\users\iulian\desktop\tema2_poo_v2\src\om.cpp
+	"Om.h"
+	<iostream>
+	<iomanip>
+
+1494780114 source:c:\users\iulian\desktop\tema2_poo_v2\src\robot.cpp
+	"Robot.h"
+	<iostream>
+	<iomanip>
+
+1494780029 c:\users\iulian\desktop\tema2_poo_v2\include\robot.h
+	"Agent.h"
+
+1494784877 c:\users\iulian\desktop\tema2_poo_v2\include\mitic.h
+	"Agent.h"
+
+1494784769 source:c:\users\iulian\desktop\tema2_poo_v2\src\mitic.cpp
+	"Mitic.h"
+	<iostream>
+	<iomanip>
+
+1494785190 c:\users\iulian\desktop\tema2_poo_v2\include\potiune.h
+	"Item.h"
+
+1494788561 source:c:\users\iulian\desktop\tema2_poo_v2\src\potiune.cpp
+	"Potiune.h"
+	"Om.h"
+	"Mitic.h"
+	<iostream>
+	<iomanip>
+
+1494784030 c:\users\iulian\desktop\tema2_poo_v2\include\armura.h
+	"Item.h"
+
+1494780897 source:c:\users\iulian\desktop\tema2_poo_v2\src\armura.cpp
+	"Armura.h"
+	<iostream>
+	<iomanip>
+
+1494783810 c:\users\iulian\desktop\tema2_poo_v2\include\arma.h
+	"Item.h"
+
+1494781047 source:c:\users\iulian\desktop\tema2_poo_v2\src\arma.cpp
+	"Arma.h"
+	<iostream>
+	<iomanip>
+
+1494785372 c:\users\iulian\desktop\tema2_poo_v2\include\vraja.h
+	"Item.h"
+	"Efect.h"
+
+1494784340 c:\users\iulian\desktop\tema2_poo_v2\include\efect.h
+
+1494784491 source:c:\users\iulian\desktop\tema2_poo_v2\src\efect.cpp
+	"Efect.h"
+	"Om.h"
+	"Mitic.h"
+	<iostream>
+	<iomanip>
+
+1494785322 source:c:\users\iulian\desktop\tema2_poo_v2\src\vraja.cpp
+	"Vraja.h"
+	"Mitic.h"
+	<iostream>
+	<iomanip>
+
+1494789661 source:c:\users\julian\desktop\tema2_poo_v2\main.cpp
+	<iostream>
+	"Harta.h"
+	"Om.h"
+	"Robot.h"
+	"Mitic.h"
+	"Potiune.h"
+	"Armura.h"
+	"Arma.h"
+	"Vraja.h"
+	"Item.h"
+	<stdlib.h>
+
+1494787106 c:\users\julian\desktop\tema2_poo_v2\include\harta.h
+	"Agent.h"
+	"Item.h"
+
+1538301998 c:\users\julian\desktop\tema2_poo_v2\include\agent.h
+	<string>
+	"Item.h"
+
+1494784690 c:\users\julian\desktop\tema2_poo_v2\include\item.h
+	<string>
+	"Agent.h"
+
+1494789958 c:\users\julian\desktop\tema2_poo_v2\include\om.h
+	"Agent.h"
+
+1494780029 c:\users\julian\desktop\tema2_poo_v2\include\robot.h
+	"Agent.h"
+
+1494784877 c:\users\julian\desktop\tema2_poo_v2\include\mitic.h
+	"Agent.h"
+
+1494785190 c:\users\julian\desktop\tema2_poo_v2\include\potiune.h
+	"Item.h"
+
+1494784030 c:\users\julian\desktop\tema2_poo_v2\include\armura.h
+	"Item.h"
+
+1494783810 c:\users\julian\desktop\tema2_poo_v2\include\arma.h
+	"Item.h"
+
+1494785372 c:\users\julian\desktop\tema2_poo_v2\include\vraja.h
+	"Item.h"
+	"Efect.h"
+
+1494784340 c:\users\julian\desktop\tema2_poo_v2\include\efect.h
+
+1494783471 source:c:\users\julian\desktop\tema2_poo_v2\include\src\agent.cpp
+	"Agent.h"
+	"Om.h"
+	"Armura.h"
+	<iostream>
+	<iomanip>
+
+1494781047 source:c:\users\julian\desktop\tema2_poo_v2\include\src\arma.cpp
+	"Arma.h"
+	<iostream>
+	<iomanip>
+
+1494780897 source:c:\users\julian\desktop\tema2_poo_v2\include\src\armura.cpp
+	"Armura.h"
+	<iostream>
+	<iomanip>
+
+1494784491 source:c:\users\julian\desktop\tema2_poo_v2\include\src\efect.cpp
+	"Efect.h"
+	"Om.h"
+	"Mitic.h"
+	<iostream>
+	<iomanip>
+
+1494789385 source:c:\users\julian\desktop\tema2_poo_v2\include\src\harta.cpp
+	"Harta.h"
+	"Armura.h"
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<iomanip>
+
+1494784741 source:c:\users\julian\desktop\tema2_poo_v2\include\src\item.cpp
+	"Item.h"
+
+1494336999 source:c:\users\julian\desktop\tema2_poo_v2\include\src\itemi.cpp
+
+1494784769 source:c:\users\julian\desktop\tema2_poo_v2\include\src\mitic.cpp
+	"Mitic.h"
+	<iostream>
+	<iomanip>
+
+1494779938 source:c:\users\julian\desktop\tema2_poo_v2\include\src\om.cpp
+	"Om.h"
+	<iostream>
+	<iomanip>
+
+1494788561 source:c:\users\julian\desktop\tema2_poo_v2\include\src\potiune.cpp
+	"Potiune.h"
+	"Om.h"
+	"Mitic.h"
+	<iostream>
+	<iomanip>
+
+1494780114 source:c:\users\julian\desktop\tema2_poo_v2\include\src\robot.cpp
+	"Robot.h"
+	<iostream>
+	<iomanip>
+
+1494785322 source:c:\users\julian\desktop\tema2_poo_v2\include\src\vraja.cpp
+	"Vraja.h"
+	"Mitic.h"
+	<iostream>
+	<iomanip>
+
